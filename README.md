@@ -14,3 +14,6 @@ In [96] : 배경에 이미지 적용
 배경을 이미지가 아니라 원하는 영상을 받아 배경으로 사용 가능
 
 영상 무한 반복은 안함, (나중에 할 예정)
+
+## conda 가상환경 생성
+conda env create --file environment.yaml
