@@ -17,3 +17,8 @@ In [96] : 배경에 이미지 적용
 
 ## conda 가상환경 생성
 conda env create --file environment.yaml
+
+```python
+pip installc cvzone
+pip install mediapipe
+```
