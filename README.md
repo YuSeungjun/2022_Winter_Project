@@ -24,3 +24,4 @@ conda env create --file environment.yaml
 pip installc cvzone
 pip install mediapipe
 ```
+위 명령어를 쉘에다 치면된다.
