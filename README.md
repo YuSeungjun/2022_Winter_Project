@@ -15,6 +15,8 @@ In [96] : 배경에 이미지 적용
 
 영상 무한 반복은 안함, (나중에 할 예정)
 
+
+가상환경을 만들기 위한 코드
 ## conda 가상환경 생성
 conda env create --file environment.yaml
 
